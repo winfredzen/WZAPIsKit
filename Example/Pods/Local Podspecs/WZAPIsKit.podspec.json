@@ -1,0 +1,30 @@
+{
+  "name": "WZAPIsKit",
+  "version": "0.1.0",
+  "summary": "A short description of WZAPIsKit.",
+  "description": "apis网络相关",
+  "homepage": "https://github.com/winfredzen/WZAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "winfredzen": "wangzhen@curefun.com"
+  },
+  "source": {
+    "git": "https://github.com/winfredzen/WZAPIsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "WZToolsKit": [
+
+    ]
+  }
+}

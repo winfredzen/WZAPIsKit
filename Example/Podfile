@@ -1,5 +1,8 @@
 use_frameworks!
 
+source 'https://github.com/winfredzen/WZSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 platform :ios, '8.0'
 
 target 'WZAPIsKit_Example' do

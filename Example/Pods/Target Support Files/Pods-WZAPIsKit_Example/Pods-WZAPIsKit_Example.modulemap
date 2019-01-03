@@ -1,0 +1,6 @@
+framework module Pods_WZAPIsKit_Example {
+  umbrella header "Pods-WZAPIsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
